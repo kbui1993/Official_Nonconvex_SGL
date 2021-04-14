@@ -4,7 +4,7 @@
 This repository is adapted from the repository (https://github.com/AMLab-Amsterdam/L0_regularization).
 
 Please cite the following if you use this code for your research:
-'''
+```
 @ARTICLE{Bui2021,
   
 AUTHOR={Bui, Kevin and Park, Fredrick and Zhang, Shuai and Qi, Yingyong and Xin, Jack},   
@@ -25,4 +25,4 @@ DOI={10.3389/fams.2020.529564},
 	
 ISSN={2297-4687}
 }
-'''
+```
